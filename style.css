@@ -16,3 +16,11 @@ main, div, article {
     padding: 2rem;
     border: 1px solid rgb(15, 14, 14);
 }
+
+section {
+    background-image: url('http://www.placekitten.com/1200/900');
+    background-size: cover;
+    background-position: center;
+    padding: 10%;
+    min-height: 50vh;
+   }
