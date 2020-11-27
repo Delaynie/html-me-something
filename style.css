@@ -17,10 +17,11 @@ main, div, article {
     border: 1px solid rgb(15, 14, 14);
 }
 
-section {
-    background-image: url('http://www.placekitten.com/1200/900');
-    background-size: cover;
+.banner {
+    background-image: url("https");
+    background-color: #38ab99;
     background-position: center;
-    padding: 10%;
-    min-height: 50vh;
+    background-size: cover;
+    min-height: 60vh;
    }
+
