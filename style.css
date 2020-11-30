@@ -42,12 +42,12 @@ footer a {
     border-bottom: 1.5px solid;
     border-radius: 5px;
     letter-spacing: .1em;
-  }
+}
 
-  footer a:hover {
+footer a:hover {
       color: rgb(201, 73, 169);
       transition: all .3s;
-  }
+}
 
 /* class and id selectors */
 
