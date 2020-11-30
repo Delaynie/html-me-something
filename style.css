@@ -13,15 +13,25 @@ body {
 }
 
 main, div, article {
-    padding: 2rem;
-    border: 1px solid rgb(15, 14, 14);
+    padding: 5%;
 }
 
-.banner {
+/*.banner {
     background-image: url("https");
     background-color: #38ab99;
     background-position: center;
     background-size: cover;
-    min-height: 60vh;
-   }
+    min-height: 30vh;
+   }*/
 
+img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    margin: 5%;
+    text-align: center;
+    font-size: 18px;
+}
