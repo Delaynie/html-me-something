@@ -77,3 +77,23 @@ footer a:hover {
     font-weight: 300;
     font-size: 2.5rem;
 }
+
+/* trying to make it mobile friendly with a little css */
+@media (max-width:550px) {
+    body {
+        padding: 8%;
+        margin: 2%;
+    }
+    #myh1 {
+        font-size: 2.3rem;
+        font-weight: 100;
+    }
+    h2 {
+        padding-top: 3%;
+        font-style: italic;
+        font-size: 1.2rem;
+    }
+    p {
+        font-size: .8rem;
+    }
+}
